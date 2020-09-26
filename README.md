@@ -3,10 +3,10 @@
 
 <h4>🚀 Math student, programming lover 📖</h4>
 
-<h5>✨ Follow me on <a href="https://www.instagram.com/jose.afk/">Instagram</a>.</h5>
-<h5>✨ Follow me on <a href="https://www.linkedin.com/in/jose-carlos-da-silva-filho-38a4991a9/">Linkedin</a>.</h5>
-<h5>✨ Follow me on <a href="https://twitter.com/feensir">Twitter</a>.</h5>
-<h5>✨ Follow me on <a href="https://www.facebook.com/josecarlosdasilva.filho.56">Facebook</a>.</h5>
+<h6>✨ Follow me on <a target="_blank" href="https://www.instagram.com/jose.afk/">Instagram</a>.</h6>
+<h6>✨ Follow me on <a target="_blank" href="https://www.linkedin.com/in/jose-carlos-da-silva-filho-38a4991a9/">Linkedin</a>.</h6>
+<h6>✨ Follow me on <a target="_blank" href="https://twitter.com/feensir">Twitter</a>.</h6>
+<h6>✨ Follow me on <a target="_blank" href="https://www.facebook.com/josecarlosdasilva.filho.66">Facebook</a>.</h6>
 
 <br/>
   <a>
