@@ -1,12 +1,7 @@
 <h1>Hi 👋, I'm Jose Carlos!</h1>
 <h3>🧑🏻‍💻 Student of Computer Sience and Full Stack Developer 🚀.</h3>
 
-<h4>🚀 Math student, programming lover 📖</h4>
-
-<h6>✨ Follow me on <a target="_blank" href="https://www.instagram.com/jose.afk/">Instagram</a>.</h6>
-<h6>✨ Follow me on <a target="_blank" href="https://www.linkedin.com/in/jose-carlos-da-silva-filho-38a4991a9/">Linkedin</a>.</h6>
-<h6>✨ Follow me on <a target="_blank" href="https://twitter.com/feensir">Twitter</a>.</h6>
-<h6>✨ Follow me on <a target="_blank" href="https://www.facebook.com/josecarlosdasilva.filho.66">Facebook</a>.</h6>
+<h4>🚀 "A vontade de aprender e estudar novas tecnologias é algo que instintivamente nos faz melhores no que fazemos, pois com isso nos é dada a impressão de que vamos mudar o mundo." - Filho, Jose C. S. 📖</h4>
 
 <br/>
   <a>
