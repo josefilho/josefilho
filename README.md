@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Redux & Redux Saga**
 
+<<<<<<< HEAD
 - 👨‍💻 All of my projects are available at [leist.app](leist.app)
 
 - 📝 I regularly write articles on [blog.leist.app](blog.leist.app)
@@ -26,3 +27,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josefilho&show_icons=true&locale=en&layout=compact" alt="josefilho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josefilho&show_icons=true&locale=en" alt="josefilho" /></p>
+=======
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=josefilho&show_icons=true&theme=dracula&count_private=true&" alt="josefilho" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefilho&theme=dracula&hide_title=true" />
+    </td>
+  </tr>
+</table>
+>>>>>>> 7b32f45dfea742593f2c9fe44a3204fc156ca739
