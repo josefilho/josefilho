@@ -3,15 +3,8 @@
 
 - 🌱 I’m currently learning **React, React Native, Redux & Redux Saga**
 
-- 👨‍💻 All of my projects are available at [leist.app](leist.app)
-
-- 📝 I regularly write articles on [blog.leist.app](blog.leist.app)
 
 - 💬 Ask me about **C, C++, React**
-
-- 📄 Know about my experiences [leist.app/me](leist.app/me)
-
-- ⚡ Fun fact **I try not to "gambiarra"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
