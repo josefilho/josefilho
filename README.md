@@ -11,7 +11,7 @@ Passionate in research and how the thinks work, designer by hobbie and necessity
 printf("Let's code");
 ```
 
-Check my <a href="https://app.rocketseat.com.br/me/jose-carlos" target="_blank">Rocketseat profile)</a>
+Check my <a href="https://app.rocketseat.com.br/me/jose-carlos" target="_blank">Rocketseat profile</a>
 
 ## Some stats!
 
