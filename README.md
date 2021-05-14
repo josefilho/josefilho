@@ -1,10 +1,14 @@
 <h1>Hi 👋, I'm Jose Carlos</h1>
 
-**About me**
-Student of Computer Science at Universidade Estadual do Mato Grosso do Sul.
+##About me
+Student of **Computer Science** at Universidade Estadual do Mato Grosso do Sul.
 Passionate in research and how the thinks work, designer by hobbie and necessity.
 
-With the spirit of doing yourself!
+***With the spirit of doing yourself!***
+
+```C
+printf("Let's code");
+```
 
 Check my (Rocketseat profile)[https://app.rocketseat.com.br/me/jose-carlos]
 
