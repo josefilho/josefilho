@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Jose Carlos</h1>
 
-## About me
+<h2>About me</h2>
+
 Student of **Computer Science** at Universidade Estadual do Mato Grosso do Sul.
 Passionate in research and how the thinks work, designer by hobbie and necessity.
 
