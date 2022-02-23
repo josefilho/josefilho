@@ -5,7 +5,7 @@
 Student of **Computer Science** at Universidade Estadual do Mato Grosso do Sul.
 Passionate in research and how the thinks work, designer by hobbie and necessity.
 
-***With the spirit of doing yourself!***
+***With the spirit of do it yourself!***
 
 ```C
 printf("Let's code");
