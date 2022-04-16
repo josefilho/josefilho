@@ -1,7 +1,7 @@
 <h1>Holla 👋, yo soy Jose Carlos</h1>
 
 <p>❯ If you want read this readme in english <a href="https://github.com/josefilho/josefilho/blob/master/README-en.md">click here</a>.</p>
-<p>❯ Se quiser ler esse readme em português <a href="http://www.github.com/josefilho/josefilho/README.md">clique aqui</a>.</p>
+<p>❯ Se quiser ler esse readme em português <a href="http://www.github.com/josefilho">clique aqui</a>.</p>
 
 <h2>Sobre mim</h2>
 
