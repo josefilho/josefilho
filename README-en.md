@@ -5,7 +5,7 @@
 
 <h2>About me</h2>
 
-<p>Full-Stack Developer Typescript and Javascript, certified by <strong>Rocktseat</strong>💜.</p>
+<p>Full-Stack Developer Typescript and Javascript, certified by <strong>Rocketseat</strong>💜.</p>
 
 <p>Estudent of <strong>Computer Science</strong> at State University of Mato Grosso do Sul. Passionate in research and how the things work, I do too some designs for hobby.</p>
 
