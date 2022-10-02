@@ -5,7 +5,7 @@
 
 <h2>Sobre mim</h2>
 
-<p>Desenvolvedor Full-Stack Typescript e Javascript, certificado pela <strong>Rocktseat</strong>💜.</p>
+<p>Desenvolvedor Full-Stack Typescript e Javascript, certificado pela <strong>Rocketseat</strong>💜.</p>
 
 <p>Estudante de <strong>Ciência da Computação</strong> na Universidade Estadual do Mato Grosso do Sul.
 Apaixonado em pesquisa e como as coisas funcionam, também faço alguns designs por hobbie.</p>
